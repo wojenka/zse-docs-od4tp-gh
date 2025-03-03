@@ -1,3 +1,3 @@
-Documentation project for school 
-=============
-Everything is in 'Wiki'
+###Documentation project for school 
+Fake documentation using Markdown and ReadTheDocs. Everything is in 'Wiki' section.
+No code. Just typing..
